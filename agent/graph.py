@@ -7,7 +7,7 @@ from langchain_openai import ChatOpenAI
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.prompts import PromptTemplate
 from langgraph.checkpoint.memory import InMemorySaver
-from prompt import prompt
+from agent.my_prompt import prompt
 
 class State(TypedDict):
     """
