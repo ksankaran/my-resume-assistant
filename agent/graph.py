@@ -1,4 +1,3 @@
-import os
 from typing_extensions import TypedDict, Annotated
 from langgraph.graph.message import add_messages
 from langgraph.graph import StateGraph, START, END
@@ -37,13 +36,6 @@ def chatbot(state: State) -> str:
     Returns:
         state (State): The updated state with the response.
     """
-    params = {
-        "azure_endpoint": os.getenv("AZURE_ENDPOINT"),
-        "azure_deployment": os.getenv("AZURE_DEPLOYLMENT"),
-        "api_version": os.getenv("MODEL_API_VERSION"),
-        "api_key": os.getenv("AZURE_API_KEY"),
-        "timeout": 60,
-    }
     model = ChatOpenAI(
         model="gpt-4.1-mini"
     )
