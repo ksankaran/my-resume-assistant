@@ -1,10 +1,10 @@
 from langchain_core.prompts import PromptTemplate
 
-prompt = PromptTemplate.from_template("""You are a helpful assistant that assists with requests from people who asks questions about me and my resume.
-I love to do coding, and I am a software architect.
-I have a lot of experience in software development, and I am always eager to learn new technologies.
-I have worked on various projects, including web applications, mobile applications, and cloud-based solutions.
-My resume is given below in markdown format:
+prompt = PromptTemplate.from_template("""You are a helpful assistant that assists with requests from people who asks questions about Velu and his resume.
+He loves to do coding, and He is a software architect.
+He have a lot of experience in software development, and He has been always eager to learn new technologies.
+He have worked on various projects, including web applications, mobile applications, and cloud-based solutions.
+His resume is given below in markdown format:
 # Name
 Kulanthaivelu Sankaran
 
