@@ -21,9 +21,16 @@ Full Stack Architect
 - AI: Agentic AI, LangGraph, MCP Tools, A2A
 
 ## Experience
+### Walmart
+Web Architect
+Remote, Georgia
+- Developed Node orchestrator to handle all API calls from samsclub.com, named Vivaldi.
+- API Development that covers browse, cart, checkout, account and order placement - part of team that designed authentication strategy at Samsclub OL.
+- Design/Development of Authorization Directive in Orchestra Server for the migration to Walmart OL and part of OL Platform team.
+- Design/Development of Orchestra Server plugins responsible for MHMD and Correlation ID tracing.
+                                      
 ### ADP
 Principal Application Architect
-Jan 2018 - Present · 7 yrs 6 mos
 Alpharetta, Georgia
 - Design, Architect and Develop applications that will enable ADP third party app developers to take advantage of ADP data through secure API infrastructure, ADP Marketplace.
 - Developed multiple homegrown apps using the ADP marketplace infrastructure (Facebook Workplace, Microsoft Teams, Slack, Outlook)
@@ -31,11 +38,9 @@ Alpharetta, Georgia
 - Developed Developer Self Service that helps third party app developers to boot camp ADP apps with ease. The app allows the app developer to create applications, generate certificates, create secure credentials, create dev sandboxes and a whole lot of other goodies.
 - Developed homegrown content management system which creates/manages content in ADP developers portal.
 - Developed nextgen version of integration manager, which expanded on the original idea to integrate two partners but allows the partner to integrate on a deeper level.
-- Currently working on Agentic AI, creating MCP Tools in Agents using A2A Protocol. 
 
 ### The Weather Channel
 Senior FullStack Web Developer
-Apr 2017 - Dec 2017 · 9 mos
 Atlanta, Georgia
 - Help the team decouple a NodeJS app from Drupal.
 - Migrate from AngularJS 1.x to React based isomorphic application.
@@ -48,7 +53,6 @@ Atlanta, Georgia
 
 ### IHG Hotels & Resorts
 Web Architect / Lead
-Jun 2015 - Mar 2017 · 1 yr 10 mos
 Atlanta Metropolitan Area
 - Team Lead/Architect for the multibrand/AccountManagement/EnhanceYourStay section of the website.
 - Architect, design and develop projects that are approved by business and product.
@@ -59,7 +63,6 @@ Atlanta Metropolitan Area
 
 ### The Weather Channel
 Web Developer
-May 2012 - May 2015 · 3 yrs 1 mo
 Atlanta Metropolitan Area
 - Core team member of Digital Infrastructure Reboot project - a complete rewrite of weather.com from backend stack to frontend stack.
 - Worked on developing a SEO solution for JavaScript sites using phantomjs.
@@ -75,7 +78,6 @@ Technologies Worked Here: Javascript, Java, JSP, JSTL, JSON, AJAX, jQuery, Angul
 
 ### Akamai Technologies
 Senior Application Software Engineer
-Feb 2011 - Apr 2012 · 1 yr 3 mos
 - Designed, developed, tested and deployed core platform tools at Akamai.
 - Led a team of six while coding the critical components and also designed web support along with execution-engine for execution of workflows from a web UI (J2EE).
 - Responsible for REST service platform development of the application.
@@ -91,7 +93,6 @@ Feb 2011 - Apr 2012 · 1 yr 3 mos
 
 ### Amazon
 Application Engineer
-Jul 2009 - Feb 2011 · 1 yr 8 mos
 - The project demands sound technical knowledge on: Java, Perl, CGI and Oracle 9i.
 - Responsible for development and maintenance of Services which are used by the breakthrough device by Amazon - Kindle.
 - Worked with the device team which handles requests like device registration, device first radio contact, content delivery and annotations management.
@@ -102,7 +103,6 @@ Jul 2009 - Feb 2011 · 1 yr 8 mos
 
 ### Best Buy
 Application Engineer
-Jul 2006 - Jul 2009 · 3 yrs 1 mo
 Greater Minneapolis-St. Paul AreaGreater Minneapolis-St. Paul Area
 - Delivered critical projects to bestbuy.com, including RWZ Membership project, Opera performance tune project and Critical jobs “Delta” run.
 - Delivered the critical projects before the holiday seasons and gather requirements with client for the upcoming projects.
