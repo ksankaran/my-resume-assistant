@@ -34,13 +34,16 @@ Kulanthaivelu Sankaran
 Full Stack Architect
 
 ## Summary
-- 18+ Years
+- 19+ Years
 - Full Stack Architect
 - Develop, Design, Performance Optimization, Cache Management, CDN Tuning, SEO Metrics, Page Render Choreography, Solution Architecture, Load Analysis
 - JavaScript, ES6, ReactJS, NodeJS, ExpressJS, HapiJS, Sinon, Lab, Code, Karma, Jasmine, Grunt, Gulp, SASS/SCSS, TypeScript, jQuery, AngularJS, Angular2, Polymer, Backbone, Java, J2EE, SpringMVC, Struts, PHP, Drupal, Apache, Tomcat, JBoss, tcServer, Akamai, Oracle, MongoDB, MySQL, SQLServer
 - API integrations: Facebook, Twitter, Google, Weather, Slack
 - Domains: Retail, Weather, Hotel
-- AI: Agentic AI, LangGraph, MCP Tools, A2A
+- AI: Agentic AI, LangGraph, Google ADK, MCP Tools, A2A
+
+## Publications
+- **Book: "Zero to AI Agent"** - A comprehensive guide to building AI agents from scratch. Available on Amazon (https://a.co/d/hfp7DYr) and Apple Books. Covers 20 chapters including agentic patterns, tool use, memory systems, and a capstone project (CASPAR). Code samples available on GitHub (https://github.com/ksankaran/zero-to-ai-agent).
 
 ## Experience
 ### Walmart
@@ -60,6 +63,7 @@ Alpharetta, Georgia
 - Developed Developer Self Service that helps third party app developers to boot camp ADP apps with ease. The app allows the app developer to create applications, generate certificates, create secure credentials, create dev sandboxes and a whole lot of other goodies.
 - Developed homegrown content management system which creates/manages content in ADP developers portal.
 - Developed nextgen version of integration manager, which expanded on the original idea to integrate two partners but allows the partner to integrate on a deeper level.
+- **Recent AI Work:** Developed multiple AI agents using Google ADK, LangGraph, and MCP Tools to create support agents for ADP API Clients, enabling automated assistance and intelligent query handling for developers integrating with ADP APIs.
 
 ### The Weather Channel
 Senior FullStack Web Developer
